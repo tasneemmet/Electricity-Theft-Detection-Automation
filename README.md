@@ -24,7 +24,7 @@ An automated workflow that monitors electricity consumption risk scores and send
 - Automatic status tracking.
 
 ## Workflow Preview
-![Workflow](screenshots/workflow.png)
+![Workflow](screenshots/Workflow.png)
 
 ## Important Note
 A high risk score is an indicator for further investigation, not proof of electricity theft. Human review is required before taking any action.
